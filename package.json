@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "twilio": "^3.48.0"
+    "twilio": "^3.84.1"
   }
 }

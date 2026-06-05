@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "twilio": "^4.20.0"
+  },
+  "overrides": {
+    "jws@>=3.0.0 <3.2.3": "^3.2.3"
   }
 }
